@@ -2,7 +2,14 @@
 
 <h1>Hola Soy Agustin Benitez</h1>
   
-<h3 align="center"> Developer Full Stack apacionado por la programacion en JavaScript con habilidades en ReactJS | Redux | SQL | Sequelize | Express</h3>
+<p align="center"> Full Stack Developer con formación como Desarrollador 
+Web. Experiencia trabajando en NodeJS, React, Redux, 
+SQL entre otras tecnologías del sector. Lidere la 
+creación de una aplicación de inmobiliaria para alquilar 
+y vender propiedades para una mayor optimación y 
+gestión de trabajo. Con resolución de problemas, 
+trabajo en equipo, comunicación, autonomía y 
+pensamiento lógico.</p>
 
 Mail: agustinbenitez1@gmail.com
 
