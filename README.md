@@ -11,9 +11,13 @@ gestión de trabajo. Con resolución de problemas,
 trabajo en equipo, comunicación, autonomía y 
 pensamiento lógico.</p>
 
-Mail: agustinbenitez1@gmail.com
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left"><a href="https://twitter.com/bez_agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bez_agustin" height="30" width="40" /></a>
+
+<h3 align="left">Mis Proyectos:</h3>
+
+<h3 align="left">Conéctate conmigo:</h3><p align="left">
+Mail: agustinbenitez1@gmail.com  
+<a href="https://twitter.com/bez_agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bez_agustin" height="30" width="40" /></a>
 
 
 
