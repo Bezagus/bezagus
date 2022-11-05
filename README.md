@@ -15,7 +15,7 @@ pensamiento lógico.</p>
 
 <h2 align="left">Mis Proyectos:</h2>
 
-<h3>Book food's:</h3>
+<h3>📌Book food's:</h3>
 <p>Aplicación realizada de cero utilizando, React-Redux, HTML, CSS puro, SQL postgres, Sequelize.
 
 Esta aplicación fue creada desde cero, base de datos, back-end, front-end.
@@ -33,7 +33,7 @@ Video Youtube: https://www.youtube.com/watch?v=gUPLw4EThp4
 
 
 
-<h3>Henry Bienes Raices:</h3>
+<h3>📌Henry Bienes Raices:</h3>
 <p>Este proyecto fue creado en conjunto con un grupo de 8 integrantes, el proyecto está basado en una plataforma para la realización de compras, alquileres y propuestas de venta en el ámbito de bienes raíces.
 En la plataforma encontraras opciones como filtrado de propiedades, una sección de favorito, una posibilidad de loguearte, enviar datos de tu casa para que la inmobiliaria venda tu casa.</p>
 
