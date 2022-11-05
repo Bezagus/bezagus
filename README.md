@@ -13,9 +13,9 @@ pensamiento lógico.</p>
 
 
 
-<h3 align="left">Mis Proyectos:</h3>
+<h2 align="left">Mis Proyectos:</h2>
 
-<h5>Book food's:</h5>
+<h3>Book food's:</h3>
 <p>Aplicación realizada de cero utilizando, React-Redux, HTML, CSS puro, SQL postgres, Sequelize.
 
 Esta aplicación fue creada desde cero, base de datos, back-end, front-end.
@@ -33,21 +33,22 @@ funcionalidades:
 
 
 
-<h5>Henry Bienes Raices</h5>
+<h3>Henry Bienes Raices</h3>
 <p>Este proyecto fue creado en conjunto con un grupo de 8 integrantes, el proyecto está basado en una plataforma para la realización de compras, alquileres y propuestas de venta en el ámbito de bienes raíces.
 En la plataforma encontraras opciones como filtrado de propiedades, una sección de favorito, una posibilidad de loguearte, enviar datos de tu casa para que la inmobiliaria venda tu casa.</p>
 
 
 
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
+<h2 align="left">Conéctate conmigo:</h2><p align="left">
 Mail: agustinbenitez1@gmail.com  
   
   
 <a href="https://twitter.com/bez_agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bez_agustin" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/agustin benítez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustín benítez" height="30" width="40" /></a>
 <a href="https://instagram.com/agus_bez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agus_bez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/agusbez (desarrollador de satck completo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agusbez (full satck developer )" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
+<a href="https://www.youtube.com/c/agusbez (desarrollador de satck completo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agusbez (full satck developer )" height="30" width="40" /></a></p>
+<h2 align="left">Lenguajes y herramientas:</h2><p align="left">
 
 
 
