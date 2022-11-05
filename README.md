@@ -22,12 +22,7 @@ Esta aplicación fue creada desde cero, base de datos, back-end, front-end.
 
 Api utilizada: https://www.spoonacular.com/
 
-funcionalidades:
-            .Crear recetas a través de un formulario controlado
-            .filtrar por dietas
-            .Ordenar alfabéticamente o nivel de saludable 
-            .Eliminar Recetas creadas
-           .Buscar Receta</p>
+funcionalidades:Crear recetas a través de un formulario controlado, filtrar por dietas, Ordenar alfabéticamente o nivel de saludable, Eliminar Recetas creadas, Buscar Receta</p>
            
  <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/landingpage.jpg" />
  <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/loading.jpg" /></a>
