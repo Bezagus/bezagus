@@ -13,7 +13,7 @@ pensamiento lógico.</p>
 
 
 
-<h2 align="left">Mis Proyectos:</h2>
+<h2 align="left">🖥Mis Proyectos:</h2>
 
 <h3>📌Book food's:</h3>
 <p>Aplicación realizada de cero utilizando, React-Redux, HTML, CSS puro, SQL postgres, Sequelize.
