@@ -38,6 +38,16 @@ Video Youtube: https://www.youtube.com/watch?v=gUPLw4EThp4
 En la plataforma encontraras opciones como filtrado de propiedades, una sección de favorito, una posibilidad de loguearte, enviar datos de tu casa para que la inmobiliaria venda tu casa.</p>
 
 
+Video Youtube:https://www.youtube.com/watch?v=Y2hWncYXqjQ </br>
+Repositorio: https://github.com/enzoulloa/proyecto-final.git
+
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/home.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/card.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/footer.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/cards.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/login.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/infouser.jpg" /></a>
+
 
 
 <h2 align="left">Conéctate conmigo:</h2><p align="left">
