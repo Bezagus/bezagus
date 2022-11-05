@@ -1,3 +1,5 @@
+![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+
 <h3 align="center">Soy Agustin Benitez un Developer Full Stack
   
   apacionado por la programacion en JavaScript con habilidades en ReactJS | Redux | SQL | Sequelize | Express</h3>- Mail: **agustinbenitez1@gmail.com**
