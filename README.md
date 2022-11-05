@@ -29,10 +29,10 @@ funcionalidades:
             .Eliminar Recetas creadas
            .Buscar Receta</p>
            
- <img height="200" src="./screenshot/landingpage.jpg" />
- <img height="200" src="./screenshot/loading.jpg" />
- <img height="200" src="./screenshot/home.jpg" />
- <img height="200" src="./screenshot/createrecipe.jpg" />
+ <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/landingpage.jpg" />
+ <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/loading.jpg" /></a>
+ <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/home.jpg" /></a>
+ <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/create Recipe.jpg" /></a>
 
 
 
