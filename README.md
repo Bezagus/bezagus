@@ -16,6 +16,20 @@ pensamiento lógico.</p>
 <h3 align="left">Mis Proyectos:</h3>
 
 <h5>Book food's:</h5>
+<p>Aplicación realizada de cero utilizando, React-Redux, HTML, CSS puro, SQL postgres, Sequelize.
+
+Esta aplicación fue creada desde cero, base de datos, back-end, front-end.
+
+Api utilizada: https://www.spoonacular.com/
+
+funcionalidades:
+            .Crear recetas a través de un formulario controlado
+            .filtrar por dietas
+            .Ordenar alfabéticamente o nivel de saludable 
+            .Eliminar Recetas creadas
+           .Buscar Receta</p>
+           
+ 
 
 
 
