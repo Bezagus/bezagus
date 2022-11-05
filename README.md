@@ -28,7 +28,7 @@ Video Youtube: https://www.youtube.com/watch?v=gUPLw4EThp4
            
  <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/landingpage.jpg" />
  <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/loading.jpg" /></a>
- <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/home.jpg" /></a>
+ <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/homefood.jpg" /></a>
  <a href="https://github.com/Bezagus/PI-Food-Agustin-Benitez.git"><img height="200" src="./screenshot/create Recipe.jpg" /></a>
 
 
