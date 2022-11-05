@@ -28,6 +28,8 @@ En la plataforma encontraras opciones como filtrado de propiedades, una sección
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 Mail: agustinbenitez1@gmail.com  
+  
+  
 <a href="https://twitter.com/bez_agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bez_agustin" height="30" width="40" /></a>
 
 
