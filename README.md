@@ -29,7 +29,10 @@ funcionalidades:
             .Eliminar Recetas creadas
            .Buscar Receta</p>
            
- 
+ <img height="200" src="./screenshot/landingpage.jpg" />
+ <img height="200" src="./screenshot/loading.jpg" />
+ <img height="200" src="./screenshot/home.jpg" />
+ <img height="200" src="./screenshot/createrecipe.jpg" />
 
 
 
