@@ -1,6 +1,6 @@
 ![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
-<h1>Hola Soy Agustin Benitez</h1>
+<h1>Hola, Soy Agustin Benitez</h1>
   
 <p align="center"> Full Stack Developer con formación como Desarrollador 
 Web. Experiencia trabajando en NodeJS, React, Redux, 
