@@ -2,7 +2,9 @@
 
 <h1>Hola Soy Agustin Benitez</h1>
   
-<h3 align="center"> Developer Full Stack apacionado por la programacion en JavaScript con habilidades en ReactJS | Redux | SQL | Sequelize | Express</h3>- Mail: **agustinbenitez1@gmail.com**
+<h3 align="center"> Developer Full Stack apacionado por la programacion en JavaScript con habilidades en ReactJS | Redux | SQL | Sequelize | Express</h3>- 
+
+Mail: agustinbenitez1@gmail.com
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left"><a href="https://twitter.com/bez_agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bez_agustin" height="30" width="40" /></a>
 
