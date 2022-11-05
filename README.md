@@ -33,7 +33,7 @@ funcionalidades:
 
 
 
-<h3>Henry Bienes Raices</h3>
+<h3>Henry Bienes Raices:</h3>
 <p>Este proyecto fue creado en conjunto con un grupo de 8 integrantes, el proyecto está basado en una plataforma para la realización de compras, alquileres y propuestas de venta en el ámbito de bienes raíces.
 En la plataforma encontraras opciones como filtrado de propiedades, una sección de favorito, una posibilidad de loguearte, enviar datos de tu casa para que la inmobiliaria venda tu casa.</p>
 
@@ -69,7 +69,7 @@ Mail: agustinbenitez1@gmail.com
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezagus&show_icons=true&locale=en&layout=compact" alt="bezagus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezagus&show_icons=true&locale=en&layout=compact" alt="bezagus" /></p><br></br>
 
 
 
