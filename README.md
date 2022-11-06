@@ -52,13 +52,13 @@ Repositorio: https://github.com/enzoulloa/proyecto-final.git
 
 
 <h2 align="left">👤 Conéctate conmigo:</h2><p align="left">
-Mail: agustinbenitez1@gmail.com  
-  
-  
+
 <a href="https://twitter.com/bez_agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bez_agustin" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/agustin-benitez-271b94241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustín benítez" height="30" width="40" /></a>
 <a href="https://instagram.com/agus_bez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agus_bez" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/agusbez (desarrollador de satck completo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agusbez (full satck developer )" height="30" width="40" /></a></p>
+
+Mail: agustinbenitez1@gmail.com  
 <h2 align="left">👨‍💻 Tecnologias y herramientas:</h2><p align="left">
 
 
