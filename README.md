@@ -4,7 +4,7 @@
   
 <p align="center"> Full Stack Developer con formación como Desarrollador 
 Web. Experiencia trabajando en NodeJS, React, Redux, 
-SQL entre otras tecnologías del sector. Lidere la 
+SQL entre otras tecnologías del sector. Forme parte de la 
 creación de una aplicación de inmobiliaria para alquilar 
 y vender propiedades para una mayor optimación y 
 gestión de trabajo. Con resolución de problemas, 
