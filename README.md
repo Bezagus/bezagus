@@ -41,13 +41,13 @@ En la plataforma encontraras opciones como filtrado de propiedades, una sección
 Video Youtube:https://www.youtube.com/watch?v=Y2hWncYXqjQ </br>
 Repositorio: https://github.com/enzoulloa/proyecto-final.git
 
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/home.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/home1.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/card.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/footer.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/cards.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/login.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/infouser.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/favorite.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/favorite1.jpg" /></a>
 
 
 
