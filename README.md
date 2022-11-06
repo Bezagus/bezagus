@@ -47,6 +47,7 @@ Repositorio: https://github.com/enzoulloa/proyecto-final.git
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/cards.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/login.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/infouser.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/favorite.jpg" /></a>
 
 
 
