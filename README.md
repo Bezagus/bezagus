@@ -1,6 +1,6 @@
 ![portada](./screenshot/portada.gif)
 
-<h1>Hola, Soy Agustin Benitez</h1>
+<h1>Hola, Soy Agustin Benitez.</h1>
   
 <p align="center"> Full Stack Developer con formación como Desarrollador 
 Web. Experiencia trabajando en NodeJS, React, Redux, 
