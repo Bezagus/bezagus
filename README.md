@@ -1,4 +1,4 @@
-![portada](./screenshot/Amarillo-y-Negro-Blanco-Ciencia-Ficción-Intro-de-YouTube.gif)
+![portada](./screenshot/portada.gif)
 
 <h1>Hola, Soy Agustin Benitez</h1>
   
