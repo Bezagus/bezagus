@@ -58,7 +58,7 @@ Repositorio: https://github.com/enzoulloa/proyecto-final.git
 <a href="https://instagram.com/agus_bez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agus_bez" height="30" width="40" /></a>
 <a href="https://twitter.com/bez_agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bez_agustin" height="30" width="40" /></a></p>
 
-Mail: agustinbenitez1@gmail.com
+Mail: agustindavidbenitez1@gmail.com
 <h2 align="left">👨‍💻 Tecnologias y herramientas:</h2><p align="left">
 
 
