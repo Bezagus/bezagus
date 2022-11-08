@@ -97,7 +97,7 @@ Mail: agustinbenitez1@gmail.com
 <br/>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bezagus&show_icons=true&locale=en" alt="bezagus" /></p>
+ // <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bezagus&show_icons=true&locale=en" alt="bezagus" /></p>
 
 
 
