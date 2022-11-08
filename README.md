@@ -88,7 +88,7 @@ Mail: agustinbenitez1@gmail.com
 <br/>
 <br/>
 
-<p></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezagus&show_icons=true&locale=en&layout=compact" alt="bezagus" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezagus&show_icons=true&locale=en&layout=compact" alt="bezagus" />
 
 <br/>
 <br/>
@@ -97,8 +97,8 @@ Mail: agustinbenitez1@gmail.com
 <br/>
 <br/>
 
- <p></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bezagus&show_icons=true&locale=en" alt="bezagus" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezagus&show_icons=true&locale=en" alt="bezagus" />
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bezagus&" alt="bezagus" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bezagus&" alt="bezagus" />
