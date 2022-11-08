@@ -90,15 +90,3 @@ Mail: agustinbenitez1@gmail.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezagus&show_icons=true&locale=en&layout=compact" alt="bezagus" />
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezagus&show_icons=true&locale=en" alt="bezagus" />
-
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bezagus&" alt="bezagus" />
