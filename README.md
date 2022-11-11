@@ -65,7 +65,7 @@ Librerias:<br/>
  .IconScout<br/>
  .Iconbox</p>
  
- Repositorio: https://agustinbenitez.vercel.app/
+ Repositorio: https://github.com/Bezagus/Portfolio.git
 
 <a href="https://agustinbenitez.vercel.app/#home"><img height="200" src="./screenshot/homeport.jpg" /></a>
 <a href="https://agustinbenitez.vercel.app/#about"><img height="200" src="./screenshot/aboutport.jpg" /></a>
