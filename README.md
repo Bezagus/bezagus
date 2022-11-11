@@ -51,19 +51,19 @@ Repositorio: https://github.com/enzoulloa/proyecto-final.git
 
 
 <h3>📌Portfolio:</h3>
-Este proyecto esta creado con el fin de potenciar mi marca personal y que las empresas puedan ver mi trabajo, tomando el rol de front-End Developer.
-
-Tecnologias Utilizadas:
- .JavaScript
- .React JS
- .HTML
- .CSS
- .React Icon
- .Email Js
-
-Librerias:
- .IconScout
- .Iconbox
+<p>Este proyecto esta creado con el fin de potenciar mi marca personal y que las empresas puedan ver mi trabajo, tomando el rol de front-End Developer.<br/>
+<br/>
+Tecnologias Utilizadas:<br/>
+ .JavaScript<br/>
+ .React JS<br/>
+ .HTML<br/>
+ .CSS<br/>
+ .React Icon<br/>
+ .Email Js<br/>
+<br/>
+Librerias:<br/>
+ .IconScout<br/>
+ .Iconbox</p>
 
 
 
