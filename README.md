@@ -50,6 +50,22 @@ Repositorio: https://github.com/enzoulloa/proyecto-final.git
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/favorite2.jpg" /></a>
 
 
+<h3>📌Portfolio:</h3>
+Este proyecto esta creado con el fin de potenciar mi marca personal y que las empresas puedan ver mi trabajo, tomando el rol de front-End Developer.
+
+Tecnologias Utilizadas:
+ .JavaScript
+ .React JS
+ .HTML
+ .CSS
+ .React Icon
+ .Email Js
+
+Librerias:
+ .IconScout
+ .Iconbox
+
+
 
 <h2 align="left">👤 Conéctate conmigo:</h2><p align="left">
 
