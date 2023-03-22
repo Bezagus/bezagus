@@ -103,13 +103,9 @@ Librerias:<br/>
 Link:https://agustin-benitez-proyetos.vercel.app/ </br>
 Repositorio: --Pendiente--
 
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/home1.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/card.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/footer.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/cards.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/login.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/infouser.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/favorite2.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-Home.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-Proyects.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-About.jpg" /></a>
 
 
 <h2 align="left">👤 Conéctate conmigo:</h2><p align="left">
