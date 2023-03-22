@@ -7,13 +7,35 @@ Web. Experiencia trabajando en NodeJS, React, Redux,
 SQL entre otras tecnologías del sector. Forme parte de la 
 creación de una aplicación de inmobiliaria para alquilar 
 y vender propiedades para una mayor optimación y 
-gestión de trabajo. Con resolución de problemas, 
-trabajo en equipo, comunicación, autonomía y 
-pensamiento lógico.</p>
+gestión de trabajo. Mis Soft-Kills mas destacadas son el
+trabajo en equipo, Mente Abierta, Determinado y Social</p>
+
+
+<h2 align="left">🖥Proyectos Destacados:</h2>
+
+- Analista de Sistemas (Da Vinci)-2023
+<p>Actuamente me Encuento Cursando Analista de sistemas en la Universidad Da Vinci de Buenos Aires, Argentina.</p>
+
+
+- Full-Stack (Soy Henry)-2022
+<p>Bootcamp de mas de 700 horas practica y teoricas.</p>
+
+
+- HTML y CSS (Google Active)-2020
+<p>Curso de Google en el que aprendi HTML5, CSS3</p>
+
+
+- Diseño Grafico(Edutin)-2020
+<p>Curso de Diseño grafico en photoshop e illustrator.</p>
 
 
 
-<h2 align="left">🖥Mis Proyectos:</h2>
+- Productividad Personal(Google)-2020
+<p>Curso de Google en el cual enseñan tecnicas para mejorar la productividad y la eficiencia.</p>
+
+
+
+<h2 align="left">🖥Proyectos Destacados:</h2>
 
 <h3>📌Book food's:</h3>
 <p>Aplicación realizada de cero utilizando, React-Redux, HTML, CSS puro, SQL postgres, Sequelize.
