@@ -94,7 +94,7 @@ Librerias:<br/>
 <a href="https://agustinbenitez.vercel.app/#skills"><img height="200" src="./screenshot/habilidadesport.jpg" /></a>
 <a href="https://agustinbenitez.vercel.app/#studies"><img height="200" src="./screenshot/estudiosport.jpg" /></a>
 <a href="https://agustinbenitez.vercel.app/#portfolio"><img height="200" src="./screenshot/proyectosport.jpg" /></a>
-<a href="https://agustinbenitez.vercel.app/#contact"><img height="200" src="./screenshot/contactoport.jpg" /></a>
+<a href="https://agustinbenitez.vercel.app/#contact"><img height="200" src="./screenshot/Prot-Proyect-Proyect1.jpg" /></a>
 
 <h3>📌Portfolio Proyectos:</h3>
 <p>Este proyecto esta creado con el objetivo de mostrar mi trabajo y los proyectos que e realizado desde lo mas simple hasta proyectos mas complejos, con el fin de no solo decir lo que se hacer sino tambien poder mostrarlo y buscar que el usuario interacture.</p>
@@ -105,6 +105,7 @@ Repositorio: --Pendiente--
 
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-Home.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-Proyects.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-About.jpg" /></a>
 <a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-About.jpg" /></a>
 
 
