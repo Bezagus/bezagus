@@ -73,7 +73,7 @@ Repositorio: https://github.com/enzoulloa/proyecto-final.git
 
 
 <h3>📌Portfolio:</h3>
-<p>Este proyecto esta creado con el fin de potenciar mi marca personal y que las empresas puedan ver mi trabajo, tomando el rol de front-End Developer.<br/>
+<p>Este proyecto esta creado con el fin de potenciar mi marca personal y que las empresas o usuarios puedan ver mi trabajo, el proyecto es totalmente responsive.<br/>
 <br/>
 Tecnologias Utilizadas:<br/>
  .JavaScript<br/>
@@ -97,7 +97,7 @@ Librerias:<br/>
 <a href="https://agustinbenitez.vercel.app/#contact"><img height="200" src="./screenshot/Prot-Proyect-Proyect1.jpg" /></a>
 
 <h3>📌Portfolio Proyectos:</h3>
-<p>Este proyecto esta creado con el objetivo de mostrar mi trabajo y los proyectos que e realizado desde lo mas simple hasta proyectos mas complejos, con el fin de no solo decir lo que se hacer sino tambien poder mostrarlo y buscar que el usuario interacture.</p>
+<p>Este proyecto esta creado con el objetivo de mostrar mi trabajo y los proyectos que e realizado desde lo mas simple hasta proyectos mas complejos, con el fin de no solo decir lo que se hacer sino tambien poder mostrarlo y buscar que el usuario interacture, el proyecto tambien es totalmente respnsive.</p>
 
 
 Link:https://agustin-benitez-proyetos.vercel.app/ </br>
