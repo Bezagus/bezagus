@@ -1,4 +1,4 @@
-![portada](./screenshot/portada.gif)
+![portada](./screenshot/Backgound-Github.gif)
 
 <h1>Hola, Soy Agustin Benitez.</h1>
   
