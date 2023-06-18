@@ -2,48 +2,48 @@
 
 <h1>Hola, Soy Agustin Benitez.</h1>
   
-<p align="center"> Full Stack Developer con formación como Desarrollador 
-Web. Experiencia trabajando en NodeJS, React, Redux, 
-SQL entre otras tecnologías del sector. Forme parte de la 
-creación de una aplicación de inmobiliaria para alquilar 
-y vender propiedades para una mayor optimación y 
-gestión de trabajo. Mis Soft-Kills mas destacadas son el
-trabajo en equipo, Mente Abierta, Determinado y Social</p>
+<p align="center"> 
+Software developer | Data Science and Artificial Intelligence, I have experience in JavaScript with libraries such as React, Redux, Node.js, Express, and in Python with libraries such as Pandas, NumPy, Matplotlib, Seaborn, pip.</p>
+<p>I also have experience using Git, virtual environments with Anaconda and Mamba, Illustrator, and Photoshop.</p>
+<p>Currently, I am studying the Artificial Intelligence career at Platzi, and next year, I will start a degree in Systems Engineering.</p>
+<p>I have experience in 4 individual projects, including a recipe library, a weather app, a personal portfolio, and a project portfolio. I also have experience in a group project with 7 members, where we developed a real estate application for buying and renting properties.</p>
+<p>I also developed a website for a company called Patagonia Paradise, which aimed to showcase and sell fishing services to foreign visitors from the United States.</p>
+  
+<p>My most notable soft skills are teamwork, open-mindedness, determination, and sociability.</p>
 
 
-<h2 align="left">🖥Proyectos Destacados:</h2>
+<h2 align="left">🖥Highlighted Projects:</h2>
 
-- Analista de Sistemas (Da Vinci)-2023
-<p>Actuamente me Encuento Cursando Analista de sistemas en la Universidad Da Vinci de Buenos Aires, Argentina.</p>
+- Data Science and Artificial Intelligence (Platzi)-2023
+<p>Currently, I am studying Artificial Intelligence at Platzi and preparing to enroll in a Systems Engineering program.</p>
 
 
 - Full-Stack (Soy Henry)-2022
-<p>Bootcamp de mas de 700 horas practica y teoricas.</p>
+<p>A bootcamp of over 700 hours, consisting of both practical and theoretical components.</p>
 
 
 - HTML y CSS (Google Active)-2020
-<p>Curso de Google en el que aprendi HTML5, CSS3</p>
+<p>I took a Google course where I learned HTML5 and CSS3.</p>
 
 
-- Diseño Grafico(Edutin)-2020
-<p>Curso de Diseño grafico en photoshop e illustrator.</p>
-
-
-
-- Productividad Personal(Google)-2020
-<p>Curso de Google en el cual enseñan tecnicas para mejorar la productividad y la eficiencia.</p>
+- Graphic Design(Edutin)-2020
+<p>I took a Graphic Design course in Photoshop and Illustrator.</p>
 
 
 
-<h2 align="left">🖥Proyectos Destacados:</h2>
+- Personal Productivity(Google)-2020
+<p>Google offers a course that teaches techniques to enhance productivity and efficiency.</p>
+
+
+
+<h2 align="left">🖥Highlighted Projects:</h2>
 
 <h3>📌Book food's:</h3>
-<p>Aplicación realizada de cero utilizando, React-Redux, HTML, CSS puro, SQL postgres, Sequelize.
+<p>Application built from scratch using React-Redux, pure HTML, CSS, SQL with Postgres, and Sequelize.
 
-Esta aplicación fue creada desde cero, base de datos, back-end, front-end.
+This application was created from scratch, including the database, back-end, and front-end.
 
-  
-funcionalidades:Crear recetas a través de un formulario controlado, filtrar por dietas, Ordenar alfabéticamente o nivel de saludable, Eliminar Recetas creadas, Buscar Receta</p>
+Functionalities: Creating recipes through a controlled form, filtering by diets, sorting alphabetically or by health level, deleting created recipes, and searching for recipes</p>
 
 Api utilizada: https://www.spoonacular.com/</br>
 Video Youtube: https://www.youtube.com/watch?v=gUPLw4EThp4
@@ -55,9 +55,9 @@ Video Youtube: https://www.youtube.com/watch?v=gUPLw4EThp4
 
 
 
-<h3>📌Henry Bienes Raices:</h3>
-<p>Este proyecto fue creado en conjunto con un grupo de 8 integrantes, el proyecto está basado en una plataforma para la realización de compras, alquileres y propuestas de venta en el ámbito de bienes raíces.
-En la plataforma encontraras opciones como filtrado de propiedades, una sección de favorito, una posibilidad de loguearte, enviar datos de tu casa para que la inmobiliaria venda tu casa.</p>
+<h3>📌Henry Real Estate:</h3>
+<p>This project was created in collaboration with a group of 8 members. The project is based on a platform for buying, renting, and selling properties in the real estate domain.
+On the platform, you will find options such as property filtering, a favorites section, the ability to log in, and the option to submit your house details for the real estate agency to sell your house.</p>
 
 
 Video Youtube:https://www.youtube.com/watch?v=Y2hWncYXqjQ </br>
@@ -73,9 +73,9 @@ Repositorio: https://github.com/enzoulloa/proyecto-final.git
 
 
 <h3>📌Portfolio:</h3>
-<p>Este proyecto esta creado con el fin de potenciar mi marca personal y que las empresas o usuarios puedan ver mi trabajo, el proyecto es totalmente responsive.<br/>
+<p>This project is created with the aim of enhancing my personal brand and allowing companies or users to see my work. The project is fully responsive, ensuring compatibility across different devices<br/>
 <br/>
-Tecnologias Utilizadas:<br/>
+Technologies Used:<br/>
  .JavaScript<br/>
  .React JS<br/>
  .HTML<br/>
@@ -83,11 +83,11 @@ Tecnologias Utilizadas:<br/>
  .React Icon<br/>
  .Email Js<br/>
 <br/>
-Librerias:<br/>
+Libraries:<br/>
  .IconScout<br/>
  .Iconbox</p>
  
- Repositorio: https://github.com/Bezagus/Portfolio.git
+ Repository: https://github.com/Bezagus/Portfolio.git
 
 <a href="https://agustinbenitez.vercel.app/#home"><img height="200" src="./screenshot/homeport.jpg" /></a>
 <a href="https://agustinbenitez.vercel.app/#about"><img height="200" src="./screenshot/aboutport.jpg" /></a>
@@ -96,20 +96,20 @@ Librerias:<br/>
 <a href="https://agustinbenitez.vercel.app/#portfolio"><img height="200" src="./screenshot/proyectosport.jpg" /></a>
 <a href="https://agustinbenitez.vercel.app/#contact"><img height="200" src="./screenshot/Prot-Proyect-Proyect1.jpg" /></a>
 
-<h3>📌Portfolio Proyectos:</h3>
-<p>Este proyecto esta creado con el objetivo de mostrar mi trabajo y los proyectos que e realizado desde lo mas simple hasta proyectos mas complejos, con el fin de no solo decir lo que se hacer sino tambien poder mostrarlo y buscar que el usuario interacture, el proyecto tambien es totalmente respnsive.</p>
+<h3>📌Portfolio Proyects:</h3>
+<p>This project is created with the objective of showcasing my work and the projects I have completed, ranging from simple to more complex ones. The aim is not only to describe what I can do but also to provide an interactive experience for users to explore. The project is also fully responsive, ensuring a seamless experience across different devices.</p>
 
 
-Link:https://agustin-benitez-proyetos.vercel.app/ </br>
+Link: https://agustin-benitez-proyectos.vercel.app/ </br>
 Repositorio: https://github.com/Bezagus/Portfolio-Proyects
 
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-Home.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-Proyects.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-About.jpg" /></a>
-<a href="https://henrybienesraices.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-About.jpg" /></a>
+<a href="https://agustin-benitez-proyectos.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-Home.jpg" /></a>
+<a href="https://agustin-benitez-proyectos.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-Proyects.jpg" /></a>
+<a href="https://agustin-benitez-proyectos.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-About.jpg" /></a>
+<a href="https://agustin-benitez-proyectos.vercel.app/"><img height="200" src="./screenshot/Prot-Proyect-About.jpg" /></a>
 
 
-<h2 align="left">👤 Conéctate conmigo:</h2><p align="left">
+<h2 align="left">👤 Connect with me:</h2><p align="left">
 
 <a href="https://www.linkedin.com/in/agustin-benitez-271b94241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustín benítez" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/agusbez (desarrollador de satck completo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agusbez (full satck developer )" height="30" width="40" /></a>
@@ -117,7 +117,7 @@ Repositorio: https://github.com/Bezagus/Portfolio-Proyects
 <a href="https://twitter.com/bez_agustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bez_agustin" height="30" width="40" /></a></p>
 
 Mail: agustindavidbenitez1@gmail.com
-<h2 align="left">👨‍💻 Tecnologias y herramientas:</h2><p align="left">
+<h2 align="left">👨‍💻 Technologies and Tools:</h2><p align="left">
 
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
