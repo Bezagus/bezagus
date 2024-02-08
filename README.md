@@ -1,6 +1,6 @@
 ![portada](./screenshot/port_new.gif)
 
-<h1>Hola, Soy Agustin Benitez.</h1>
+<h1>Hi, My name is Agustin Benitez.</h1>
   
 <p align="center"> 
 Software developer | Data Science and Artificial Intelligence, I have experience in JavaScript with libraries such as React, Redux, Node.js, Express, and in Python with libraries such as Pandas, NumPy, Matplotlib, Seaborn, pip.</p>
@@ -143,8 +143,4 @@ Mail: agustindavidbenitez1@gmail.com
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
-<br/>
-<br/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezagus&show_icons=true&locale=en&layout=compact" alt="bezagus" />
 
