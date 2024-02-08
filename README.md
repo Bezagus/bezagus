@@ -1,6 +1,6 @@
 ![portada](./screenshot/port_new.gif)
 
-<h1>Hi, My name is Agustin Benitez.</h1>
+<h1>Hi, My fullname is Agustin Benitez.</h1>
   
 <p align="center"> 
 Software developer | Data Science and Artificial Intelligence, I have experience in JavaScript with libraries such as React, Redux, Node.js, Express, and in Python with libraries such as Pandas, NumPy, Matplotlib, Seaborn, pip.</p>
