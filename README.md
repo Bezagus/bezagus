@@ -1,5 +1,3 @@
-![portada](./screenshot/port_new.gif)
-
 👨‍💻 Agustin David Benitez
 🌟 Welcome to my GitHub!
 I'm a passionate Full Stack Developer with a strong focus on creating scalable, efficient, and user-friendly solutions. With over 2 years of experience, I specialize in:
