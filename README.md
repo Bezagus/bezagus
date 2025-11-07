@@ -1,39 +1,88 @@
-👨‍💻 Agustin David Benitez
-🌟 Welcome to my GitHub!
-I'm a passionate Full Stack Developer with a strong focus on creating scalable, efficient, and user-friendly solutions. With over 2 years of experience, I specialize in:
+# Agustín David Benitez
+### Full Stack Developer | TypeScript | React | Node.js | NestJS
 
-💻 Frontend: React.js, React Native, TypeScript
-🛠️ Backend: Node.js, Express, Sequelize
-📊 Databases: PostgreSQL, SQLite, MariaDB
-🚀 DevOps: Docker, AWS (S3, Lambda), CI/CD
-🤖 Additional Tools: Python for AI, Redux, React Query
+Hi! I'm Agustín, a Full Stack Developer passionate about building scalable and efficient software solutions.
 
-🧑‍🎓 A Lifelong Learner
-🎓 Bootcamps & Certifications: Soy Henry, Platzi, OpenBootcamp
+My approach combines strong technical skills with **exceptional discipline** and **proven resilience** in overcoming complex challenges. I am focused on **continuous improvement** and writing clean, maintainable code.
 
-🏛️ Academics: Currently studying Informatics Engineering at the University of Buenos Aires
+I am currently deepening my knowledge in **Data Science** and **Artificial Intelligence** at the University of Buenos Aires (UBA).
 
-🛠️ Skills & Expertise
-🔹 Developing mobile apps with React Native
-🔹 Designing and deploying scalable backend systems
-🔹 Implementing CI/CD pipelines and Dockerized environments
-🔹 Building intuitive user interfaces and maintaining code quality
+---
 
-📂 Notable Projects
-🌍 Dynamic Cabin Booking Website
-Redesigned and modernized a cabin rental platform using TypeScript and Next.js.
-Visit Project
+## 🛠️ My Technology Stack
 
-🛠️ Employee Management System
-Developed a custom solution for employee shift tracking using React.js and Node.js.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+      <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Databases</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    </td>
+    <td valign="top" width="50%">
+      <strong>Cloud, DevOps & Tools</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+    </td>
+  </tr>
+</table>
 
-🌱 What Drives Me
-I thrive on tackling complex challenges, collaborating with teams, and continuously learning to stay ahead in the ever-evolving tech world.
+---
 
-📫 Let's Connect!
+## 🚀 Featured Projects
 
-🌐 <a href="https://agustinbenitez.vercel.app/en">Portfolio</a>
+### 1. Ticketing & Payment Systems (Professional Work)
+* Developed RESTful APIs with **NestJS** for e-commerce and ticketing platforms (e.g., "Ticket Titan," "Cabarete Jazz").
+* Integrated payment gateways (PayPal, Mercado Pago) and cloud services like **AWS S3** and **SES**.
+* Built user interfaces with **React** and **Next.js**.
 
-💼 <a href="https://www.linkedin.com/in/agustin-david-benitez/">LinkedIn</a>
+### 2. Mobile Schedule Manager (Freelance)
+* Cross-platform mobile application (iOS/Android) for employee schedule management.
+* Frontend developed 100% in **React Native**.
+* Backend API built with **Node.js**, **Express**, and **SQLite** for data persistence.
 
-📧 <a href="mailto:agustindavidbenitez1@gmail.com">Email</a>
+### 3. Bootcamp Final Project: Real Estate Platform
+* A complete PERN Stack web platform for searching and booking properties.
+* Implemented authentication (Google OAuth), payment gateway (Mercado Pago), and user reviews.
+* **Stack:** React, Redux, Node.js, Express, Sequelize, and PostgreSQL.
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or collaboration opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agustinbenitez.vercel.app/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-david-benitez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezagus@gmail.com)
